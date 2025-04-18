@@ -1,5 +1,5 @@
 # Personal Finance PowerBI Dashboard
-
+ 
 A project that utilizes Microsoft PowerBI to analyze personal financial data and visualize expenses through an interactive dashboard.
 
 > _"Data analysis is not just about presenting data, but to build a story and create a meaningful narrative from the raw data. At the end of the day, that's what analytics is all about - not about writing code, not about crunching numbers, not about memorizing formula syntax - it's about deriving meaning and context from the data and, more importantly, using it to make real change."_
